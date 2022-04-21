@@ -1,0 +1,9 @@
+server name,server id,latency,jitter,packet loss,download,upload,download bytes,upload bytes,share url,date
+"Whitesky Communications LLC - Denver, CO",23628,11.025,3.1260000000000003,0.0,30355763,4837698,281271815,21443895,https://www.speedtest.net/result/c/a6a95362-df63-4dde-989d-baa48ad04f24,2021-10-18 21:29:15.575028
+"Netprotect - Denver, CO",37501,13.809,1.557,,31060261,5003153,435068276,57800253,https://www.speedtest.net/result/c/19a583e5-6037-4957-8f06-08b52614d78d,2021-10-19 17:43:58.106283
+"FORETHOUGHT.net - Denver, CO",3964,11.559,0.332,,32746075,5198416,309383834,75085756,https://www.speedtest.net/result/c/27be1ae4-9461-4daa-90c4-c06d7eee4081,2021-10-21 00:20:48.221446
+"Verso Networks - Denver, CO",20818,10.587,4.622,0.0,31908088,5235317,391090968,63837666,https://www.speedtest.net/result/c/ba68f556-906c-4cd7-b027-772cdcc0fc5c,2021-10-21 16:54:34.641856
+"ALLO - Denver - Denver, CO",24079,11.315,2.363,0.0,1305630,1055633,17899072,14158249,https://www.speedtest.net/result/c/0e7cf808-5a81-4663-afc9-ef4bac3dc5c9,2021-11-05 10:04:58.192000
+"Aerux Broadband - Denver, CO",14861,10.75,0.836,,10331287,1251992,98128060,16914863,https://www.speedtest.net/result/c/488561fd-9199-41eb-abbb-5a9440cf9698,2021-11-05 10:08:25.422937
+"CenturyLink - Denver, CO",8862,11.949000000000002,1.379,0.0,1147675,1653190,15821272,22402790,https://www.speedtest.net/result/c/b7398997-8a8b-4c3c-b61d-e4b60f7b714c,2021-11-05 10:11:57.313476
+"Aerux Broadband - Denver, CO",14861,12.469,1.098,,28749542,5181912,332993874,75034881,https://www.speedtest.net/result/c/b90bd893-f020-43fa-a653-9e24c37fd0b2,2021-11-05 10:42:42.830864
