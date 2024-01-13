@@ -1,0 +1,15 @@
+server_name,server_id,download,upload,server_url,timestamp,ping
+"Denver, CO",7192,132493350.0,156681903.0,http://speedtest.den.sharktech.net:8080/speedtest/upload.php,2024-01-13T23:24:03.969245Z,22.0
+"Denver, CO",16797,94497294.0,68477338.0,http://speedtest.den1.nitelusa.net:8080/speedtest/upload.php,2024-01-13T23:24:23.773554Z,11.8
+"Denver, CO",16797,268775789.0,140524578.0,http://speedtest.den1.nitelusa.net:8080/speedtest/upload.php,2024-01-13T23:26:22.137500Z,16.1
+"Denver, CO",16797,378688263.0,213646514.0,http://speedtest.den1.nitelusa.net:8080/speedtest/upload.php,2024-01-13T23:27:12.542384Z,11.8
+"Denver, CO",16797,425548897.0,175842618.0,http://speedtest.den1.nitelusa.net:8080/speedtest/upload.php,2024-01-13T23:28:46.041400Z,14.1
+"Denver, CO",16797,381135711.0,69567645.0,http://speedtest.den1.nitelusa.net:8080/speedtest/upload.php,2024-01-13T23:29:32.360725Z,9.1
+"Denver, CO",7192,371129080.0,259020539.0,http://speedtest.den.sharktech.net:8080/speedtest/upload.php,2024-01-13T23:30:22.529152Z,19.2
+"Denver, CO",16797,473865971.0,302877848.0,http://speedtest.den1.nitelusa.net:8080/speedtest/upload.php,2024-01-13T23:31:08.708395Z,14.3
+"Denver, CO",16797,328086302.0,144252089.0,http://speedtest.den1.nitelusa.net:8080/speedtest/upload.php,2024-01-13T23:31:51.423055Z,14.4
+"Denver, CO",7192,408523310.0,188132529.0,http://speedtest.den.sharktech.net:8080/speedtest/upload.php,2024-01-13T23:32:41.533101Z,14.1
+"Denver, CO",7192,255621991.0,98797821.0,http://speedtest.den.sharktech.net:8080/speedtest/upload.php,2024-01-13T23:33:28.607213Z,15.0
+"Denver, CO",16797,356411596.0,114965732.0,http://speedtest.den1.nitelusa.net:8080/speedtest/upload.php,2024-01-13T23:34:21.890416Z,14.6
+"Denver, CO",7192,392720798.0,159547343.0,http://speedtest.den.sharktech.net:8080/speedtest/upload.php,2024-01-13T23:35:12.994041Z,17.0
+"Denver, CO",16797,254050125.0,16436813.0,http://speedtest.den1.nitelusa.net:8080/speedtest/upload.php,2024-01-13T23:36:00.616635Z,13.0
